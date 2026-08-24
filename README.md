@@ -12,7 +12,7 @@
 
 ## What is included
 
-- A ready-to-install custom pet named `Гатс`.
+- A ready-to-install custom pet named `Guts`.
 - An 8 × 11, version 2 sprite sheet (`1536 × 2288` pixels).
 - Idle, directional running, waving, jumping, failed, waiting, working, and review animations.
 - Sixteen look-direction poses for a smooth full-circle gaze loop.
@@ -26,7 +26,7 @@
    %USERPROFILE%\.codex\pets\guts\
    ```
 
-3. Open Codex, then choose **Settings → Pets** and select `Гатс`.
+3. Open Codex, then choose **Settings → Pets** and select `Guts`.
 
 If you already have a custom pet with this ID, back up its folder first.
 

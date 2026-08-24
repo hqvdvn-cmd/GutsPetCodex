@@ -1,7 +1,7 @@
 {
   "id": "guts",
-  "displayName": "Гатс",
-  "description": "Компактный аниме-питомец Гатс: суровый мечник в тёмном плаще и броне, с мечом Dragonslayer.",
+  "displayName": "Guts",
+  "description": "A compact anime Guts pet: a stern swordsman in dark armor and cape with the Dragonslayer.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
