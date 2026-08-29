@@ -1,6 +1,6 @@
 # Guts Pet for Codex
 
-> A compact animated Guts companion for the Codex desktop app — dark armor, a stern expression, and the Dragonslayer carried across his back.
+> A compact animated Guts companion for the Codex desktop app — dark armor, a stern expression, the Behelit, and an enormous Dragonslayer.
 
 <p align="center">
   <img src="assets/preview.png" alt="Preview of the animated Guts pet sprite sheet" width="820">
@@ -15,6 +15,7 @@
 - A ready-to-install custom pet named `Guts`.
 - An 8 × 11, version 2 sprite sheet (`1536 × 2288` pixels).
 - Idle, directional running, waving, jumping, failed, waiting, working, and review animations.
+- Custom Behelit toss-and-catch and stationary Dragonslayer training loops.
 - Sixteen look-direction poses for a smooth full-circle gaze loop.
 
 ## Install
