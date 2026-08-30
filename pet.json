@@ -1,7 +1,7 @@
 {
-  "id": "guts",
-  "displayName": "Guts",
-  "description": "A compact anime Guts pet: a stern swordsman in dark armor and cape with the Dragonslayer.",
+  "id": "guts-berserker",
+  "displayName": "Guts-Berserk",
+  "description": "Guts-Berserk in Berserker Armor: black segmented armor, torn cape, red visor, and Dragonslayer.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
